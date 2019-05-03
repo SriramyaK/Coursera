@@ -20,10 +20,10 @@ Following datasets have been used in the project:
 
 <h3>References:</h3>
 
-   <br>•	[1] Yo!Vizag - City’s Exclusive Magazine and Portal</br>
-   <br>•	[2] Foursquare API</br>
-   <br>•	[3] Visakhapatnam Wikipedia page</br>
-   <br>•	[4] San Francisco Wikipedia Page</br>
+   <br>•	[1] https://www.yovizag.com/visakhapatnam-vizag-pin-code/</br>
+   <br>•	[2] Foursquare API - https://developer.foursquare.com/</br>
+   <br>•	[3] Visakhapatnam Wiki - https://en.wikipedia.org/wiki/Visakhapatnam</br>
+   <br>•	[4] San Francisco Wiki - https://en.wikipedia.org/wiki/San_Francisco</br>
    <br>•	[5] https://india.smartcitiescouncil.com/article/vizag-smart-city-model-itself-san-francisco</br>
    <br>•	[6] https://www.smartvizag.in/</br>
 
