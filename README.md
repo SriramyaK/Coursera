@@ -1,3 +1,3 @@
-Vizag Smart City to model itself on San Francisco
+<h1>Vizag Smart City to modernize itself as San Francisco</h1>
   
-Description & Disscusion of the Background
+<h2>Description & Discussion of the Background</h2>
