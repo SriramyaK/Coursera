@@ -13,7 +13,7 @@ Visakhapatnam (also known as Vizag) is the largest city and the financial capita
 
 Following datasets have been used in the project:
 
-   <br>•	Postal Codes of Visakhapatnam. Data has been scraped and cleaned from Yo!Vizag City’s Exclusive Magazine and Portal [1]</br>
+   <br>•	Postal Codes of Visakhapatnam. Data has been scraped and cleaned from Yo!Vizag Website [1]</br>
    <br>•	Foursquare API to get the most common venues of given boroughs of Visakhapatnam and San Francisco respectively.[2]</br>
    <br>•	Visakhapatnam [3] and San Francisco Wikipedia Pages [4] have been scraped and cleaned for creating Word clouds.</br>
    <br>•	Zip codes of San Francisco. Data has been downloaded in .csv format from https://datasf.org/</br>
