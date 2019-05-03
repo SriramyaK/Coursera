@@ -13,17 +13,17 @@ Visakhapatnam (also known as Vizag) is the largest city and the financial capita
 
 Following datasets have been used in the project:
 
- <br>&nbsp;&nbsp;•	Postal Codes of Visakhapatnam. Data has been scraped and cleaned from Yo!Vizag – City’s Exclusive Magazine and Portal [1]</br>
- <br>&nbsp;&nbsp;•	Foursquare API to get the most common venues of given boroughs of Visakhapatnam and San Francisco respectively.[2]</br>
- <br>&nbsp;&nbsp;•	Visakhapatnam [3] and San Francisco Wikipedia Pages [4] have been scraped and cleaned for creating Word clouds.</br>
- <br>&nbsp;&nbsp;•	Zip codes of San Francisco. Data has been downloaded in .csv format from https://datasf.org/</br>
+   <br>•	Postal Codes of Visakhapatnam. Data has been scraped and cleaned from Yo!Vizag – City’s Exclusive Magazine and Portal [1]</br>
+   <br>•	Foursquare API to get the most common venues of given boroughs of Visakhapatnam and San Francisco respectively.[2]</br>
+   <br>•	Visakhapatnam [3] and San Francisco Wikipedia Pages [4] have been scraped and cleaned for creating Word clouds.</br>
+   <br>•	Zip codes of San Francisco. Data has been downloaded in .csv format from https://datasf.org/</br>
 
 <h3>References:</h3>
 
-  <br>•	[1] Yo!Vizag - City’s Exclusive Magazine and Portal</br>
-  <br>•	[2] Foursquare API</br>
-  <br>•	[3] Visakhapatnam Wikipedia page</br>
-  <br>•	[4] San Francisco Wikipedia Page</br>
-  <br>•	[5] https://india.smartcitiescouncil.com/article/vizag-smart-city-model-itself-san-francisco</br>
-  <br>•	[6] https://www.smartvizag.in/</br>
+   <br>•	[1] Yo!Vizag - City’s Exclusive Magazine and Portal</br>
+   <br>•	[2] Foursquare API</br>
+   <br>•	[3] Visakhapatnam Wikipedia page</br>
+   <br>•	[4] San Francisco Wikipedia Page</br>
+   <br>•	[5] https://india.smartcitiescouncil.com/article/vizag-smart-city-model-itself-san-francisco</br>
+   <br>•	[6] https://www.smartvizag.in/</br>
 
